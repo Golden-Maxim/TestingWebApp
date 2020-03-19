@@ -1,0 +1,14 @@
+<story path="stories/RegistrationStory.story" title="">
+<scenario keyword="Scenario:" title="Go to registration page">
+<meta>
+<property keyword="@" name="regist" value=""/>
+</meta>
+<step outcome="pending" keyword="PENDING">Given I open the registration page</step>
+<pendingMethod>@Given(&quot;I open the registration page&quot;)
+@Pending
+public void givenIOpenTheRegistrationPage() {
+  // PENDING
+}
+</pendingMethod>
+</scenario>
+</story>

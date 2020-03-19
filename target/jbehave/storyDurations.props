@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Mar 19 11:52:49 EET 2020
+threads=1
+total=8000
+threadAverage=8000
+story/RegistrationStory.story=8000

@@ -1,0 +1,8 @@
+<story path="story/RegistrationStory.story" title="">
+<scenario keyword="Scenario:" title="Search for Facebook site at the google.com">
+<meta>
+<property keyword="@" name="registration" value=""/>
+</meta>
+<step outcome="successful">Given I open the registration page</step>
+</scenario>
+</story>
